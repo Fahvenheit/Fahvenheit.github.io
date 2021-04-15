@@ -12,13 +12,12 @@
     
     
     <item>
-      <title>Linked post</title>
+      <title>智能显微镜演示</title>
       <link>https://fahvenheit.github.io/blog/2015/10/02/linked-post/</link>
       <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
       
       <guid>https://fahvenheit.github.io/blog/2015/10/02/linked-post/</guid>
-      <description>I&amp;rsquo;m a linked post in the menu. You can add other posts by adding the following line to the frontmatter:
-menu = &amp;quot;main&amp;quot;  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus.</description>
+      <description>这是我们的产品视频。     var playerElement = document.getElementById(&#34;player-wrapper&#34;); var player = new Clappr.Player({ source: &#34;https://cloud.video.taobao.com//play/u/378629488/p/1/e/6/t/1/306064190700.mp4&#34;, mute: true, height: 360, width: 640 }); player.attachTo(playerElement);</description>
     </item>
     
     <item>
