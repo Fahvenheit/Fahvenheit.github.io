@@ -6,18 +6,18 @@
     <description>Recent content in programming on 华文海智能</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Oct 2015 21:49:20 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 08 Mar 2021 21:49:20 +0200</lastBuildDate>
     
 	<atom:link href="https://fahvenheit.github.io/tags/programming/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>智能显微镜演示</title>
-      <link>https://fahvenheit.github.io/blog/2015/10/02/linked-post/</link>
-      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
+      <link>https://fahvenheit.github.io/blog/2021/03/08/microscope-demo/</link>
+      <pubDate>Mon, 08 Mar 2021 21:49:20 +0200</pubDate>
       
-      <guid>https://fahvenheit.github.io/blog/2015/10/02/linked-post/</guid>
-      <description>这是我们的产品视频。     var playerElement = document.getElementById(&#34;player-wrapper&#34;); var player = new Clappr.Player({ source: &#34;https://cloud.video.taobao.com//play/u/378629488/p/1/e/6/t/1/306064190700.mp4&#34;, mute: true, height: 360, width: 640 }); player.attachTo(playerElement);</description>
+      <guid>https://fahvenheit.github.io/blog/2021/03/08/microscope-demo/</guid>
+      <description>以下是实机演示。     var playerElement = document.getElementById(&#34;player-wrapper&#34;); var player = new Clappr.Player({ source: &#34;https://cloud.video.taobao.com//play/u/378629488/p/1/e/6/t/1/306064190700.mp4&#34;, mute: true, height: 360, width: 640 }); player.attachTo(playerElement);</description>
     </item>
     
   </channel>
